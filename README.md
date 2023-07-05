@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Ahsan
-- 👀 I’m interested in Front-End Web Development
+- 👀 I’m interested in Front-End Web Development and Electrical Engineering
 - 🌱 I’m currently learning HTML and CSS and some basic JavaScript
 - 💞️ I’m looking to collaborate on any startup where I could demonstrate my skills 
 - 📫 You can reach me at my email ahsanhd@outlook.com
