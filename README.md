@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Muhammad Ahsan</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsanhd" alt="ahsanhd" /></a> </p>
+
 - 🔭 I’m currently working on [Shape Powered](https://shapepowered.com/)
 
 - 🌱 I’m currently learning **NodeJS**
@@ -13,11 +18,6 @@
 - 📫 How to reach me **ahsanhd@outlook.com**
 
 - ⚡ Fun fact **I think I am a good listner**
-
-<h1 align="center">Hi 👋, I'm Muhammad Ahsan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsanhd" alt="ahsanhd" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
