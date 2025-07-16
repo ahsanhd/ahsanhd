@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ahsanhd@outlook.com**
 
-- ⚡ Fun fact **I think I am a good listner**
+- ⚡ Fun fact **I think I am a good listener**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
